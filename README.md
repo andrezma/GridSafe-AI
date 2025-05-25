@@ -1,2 +1,2 @@
 # GridSafe-AI
-For ptesting
+Noteboks correspondientes al proceso de extraccion de Datos
